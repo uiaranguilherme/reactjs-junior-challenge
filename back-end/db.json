@@ -1,0 +1,268 @@
+{
+  "clients": [
+    {
+      "name": "Jeremy Jaymes",
+      "company": "orchestrate e-business eyeballs",
+      "email": "Concepcion.Lubowitz@yahoo.com",
+      "address": "880 Heaven View Apt. 051, Middletown, Berkshire, 927142-535",
+      "note": "Blanditiis consectetur exercitationem numquam blanditiis eligendi sint. Sed sed qui vel at mollitia. Placeat voluptates voluptas libero.\nNon qui aut neque et tempora architecto maiores et. Consequatur eum ut iure esse et occaecati dolore quibusdam perferendis. Aperiam quaerat neque cupiditate perferendis sit nisi. Amet repudiandae vel reprehenderit eligendi architecto. Ut consequatur aspernatur itaque nulla illo illo adipisci vero nihil. Veritatis ratione ut molestiae et.\nDolor omnis neque. Ullam atque quae exercitationem rerum soluta. Similique qui aut consequuntur accusamus reprehenderit reprehenderit numquam ullam. Rem totam est et odio earum sint eos facere numquam.",
+      "phone": "+24 08 73376-1049",
+      "isActive": true,
+      "guid": "724dda7e-2bdf-45d4-ba03-eb9135da33d7",
+      "id": 22
+    },
+    {
+      "name": "Kelly Morissette",
+      "company": "incentivize viral web services",
+      "email": "Eusebio5@yahoo.com",
+      "address": "058 Katlynn Circle Suite 897, Lawrence, Buckinghamshire, 172695-035",
+      "note": "vero enim maiores",
+      "phone": "+26 09 13658-1246",
+      "isActive": true,
+      "guid": "9f3980cc-6c11-4f41-ab62-366c01459dbc",
+      "id": 24
+    },
+    {
+      "name": "Whitney Anderson",
+      "company": "synthesize next-generation partnerships",
+      "email": "Laverna.Stokes@gmail.com",
+      "address": "725 Tromp Tunnel Suite 797, Athens-Clarke County, Berkshire, 483105-849",
+      "note": "Occaecati sed voluptatum voluptate deleniti.",
+      "phone": "+84 13 39801-9185",
+      "isActive": true,
+      "guid": "6e738d4f-a533-4b26-bbc2-e2431e8b3970",
+      "id": 25
+    },
+    {
+      "name": "Aubrey Treutel",
+      "company": "enable integrated web services",
+      "email": "Mohamed10@gmail.com",
+      "address": "885 Kilback Mills Suite 677, Burlington, Berkshire, 955756-642",
+      "note": "Consequatur esse facilis eius ut.",
+      "phone": "+33 07 92675-5176",
+      "isActive": true,
+      "guid": "f41a60c8-7135-4370-abe4-ba1fb4d842cc",
+      "id": 26
+    },
+    {
+      "name": "Ms. Marty Turcotte",
+      "company": "engage B2B infrastructures",
+      "email": "Rollin_Runolfsdottir@gmail.com",
+      "address": "949 Elwin Curve Suite 920, Napa, Buckinghamshire, 452653-296",
+      "note": "Est consectetur omnis. Consequuntur quis aut incidunt doloribus officia ab. Aliquid et animi. Et asperiores dolorem omnis rerum libero doloremque sed qui.\nNumquam nihil aut sint molestiae architecto nihil ut consectetur. Cum qui tenetur. Temporibus aut est et molestiae minima. Labore quam accusantium minima sint dicta ab perferendis ducimus.\nId cumque itaque officia explicabo. Cum dolor fugiat sunt. Aut exercitationem voluptas itaque quas aliquam ipsam omnis. Consectetur eius sequi doloremque repellat tenetur. Odit aut suscipit odio officia saepe.",
+      "phone": "+82 04 91444-9357",
+      "isActive": true,
+      "guid": "fe71d553-4650-47fe-a992-342905446cb8",
+      "id": 27
+    },
+    {
+      "name": "Rochelle Metz II",
+      "company": "incubate cross-platform relationships",
+      "email": "Rickie.Krajcik@yahoo.com",
+      "address": "3751 Alize Radial Apt. 016, Clifton, Borders, 054523-001",
+      "note": "Natus dolor eum excepturi qui autem enim. Illo dolores voluptatibus dicta et voluptatibus praesentium maiores porro quod. Deleniti aperiam et nemo officia optio itaque sed atque. Voluptatem laborum ipsam occaecati natus qui id aliquam quidem eum.",
+      "phone": "+01 97 65172-0239",
+      "isActive": true,
+      "guid": "e24538e6-cbb8-4f4d-824b-16ccc1edb1f2",
+      "id": 28
+    },
+    {
+      "name": "Mr. Monica Goldner",
+      "company": "optimize sticky communities",
+      "email": "Junior.Beer65@gmail.com",
+      "address": "132 Carolyn Park Suite 864, Canton, Berkshire, 653383-427",
+      "note": "Quae sint sed omnis minima neque aspernatur sequi modi. Qui doloremque enim qui esse quae. Tempore officiis ut quidem voluptatum esse explicabo aliquid itaque. Quae nostrum quia dolorem blanditiis molestiae sit ut. Non et fugit in est aut sit dolorem.\nEt iste voluptates vero dolorem nesciunt qui. Dolor iste occaecati eos harum corporis fugiat dolor nisi. Sit qui libero possimus nam.\nQui distinctio earum rerum quia eius porro voluptatem vero. Nostrum magnam animi exercitationem et explicabo eos voluptatem laboriosam iste. Illo magnam facere asperiores reiciendis nostrum ut et.",
+      "phone": "+81 88 14326-6792",
+      "isActive": true,
+      "guid": "ce0bf37b-ddc4-4207-aceb-ac5d491dc5d6",
+      "id": 29
+    },
+    {
+      "name": "Willis Cartwright",
+      "company": "seize innovative networks",
+      "email": "Braulio73@yahoo.com",
+      "address": "911 Elmo Turnpike Apt. 502, Burien, Buckinghamshire, 619585-885",
+      "note": "dolorem modi sit",
+      "phone": "+24 81 78672-8799",
+      "isActive": true,
+      "guid": "5c23f2a1-848b-4a72-beed-2f77541b3675",
+      "id": 30
+    },
+    {
+      "name": "Lois Hirthe PhD",
+      "company": "seize dynamic infrastructures",
+      "email": "Clemmie43@hotmail.com",
+      "address": "599 Nona Plaza Suite 779, Rockwall, Berkshire, 190468-561",
+      "note": "Officiis alias blanditiis. Esse sint et hic a repudiandae similique veniam deleniti. Aperiam beatae nihil minus voluptatem eligendi cum. Temporibus ut quis quia alias aut. Aperiam tempore minus ea deleniti odio aut architecto sit. Quidem autem eos aliquam earum laboriosam quam consectetur molestiae modi.",
+      "phone": "+25 72 73359-2328",
+      "isActive": true,
+      "guid": "db0bfa01-4509-47cf-9ad9-4128d2081cf7",
+      "id": 31
+    },
+    {
+      "name": "Dustin Adams",
+      "company": "seize virtual e-commerce",
+      "email": "Willy_Torphy@hotmail.com",
+      "address": "15679 Javier Summit Suite 274, Hicksville, Borders, 260361-663",
+      "note": "Non dolor delectus est est quae molestiae iusto qui non. Est iste vero consequatur aut dolorum adipisci. Explicabo sunt assumenda eligendi. Autem tempore quia molestias. Eligendi voluptas molestiae placeat delectus accusamus pariatur magnam nam vel. Et ipsum ipsam facere voluptatem ut est itaque sequi quia.\nQui corrupti et sit necessitatibus accusantium tenetur. Tenetur sequi voluptatibus illum nihil aut dolor error at. Aliquid similique saepe aut maxime odit reiciendis a.\nVel odio qui officia quia. Veritatis recusandae provident excepturi tempore sed sequi facere. Aliquam tempora at odio commodi. Dolores rem necessitatibus mollitia accusamus libero rem ipsa cumque eveniet.",
+      "phone": "+24 38 83960-8640",
+      "isActive": false,
+      "guid": "1ee31f7c-461a-42b8-b26b-6f80eb88ca14",
+      "id": 32
+    },
+    {
+      "name": "Ellen Trantow DVM",
+      "company": "transition turn-key paradigms",
+      "email": "Cristobal_Cremin@hotmail.com",
+      "address": "22396 Juvenal Canyon Apt. 602, Apple Valley, Cambridgeshire, 553915-918",
+      "note": "Ut nobis et illum ducimus esse. Cum porro maxime debitis commodi et est. Necessitatibus voluptatibus consectetur in sunt aut itaque. Vero dicta eaque.",
+      "phone": "+35 89 38863-2910",
+      "isActive": false,
+      "guid": "bd7c30ee-7ea7-4184-9376-2d1c839a36ea",
+      "id": 33
+    },
+    {
+      "name": "Carmen MacGyver",
+      "company": "whiteboard clicks-and-mortar content",
+      "email": "Isai.Smitham@yahoo.com",
+      "address": "24098 Johnston Station Suite 806, Vineland, Cambridgeshire, 692658-344",
+      "note": "Molestiae repudiandae qui accusantium recusandae enim. Nostrum repellendus dolor voluptas libero officia quos. Cupiditate ducimus et et reiciendis dolores omnis qui aliquam. Qui natus ex mollitia quo similique. Dolorum quam a aliquid possimus nostrum nesciunt. Voluptatem quam recusandae similique doloribus.",
+      "phone": "+99 01 73375-0217",
+      "isActive": false,
+      "guid": "dd413829-39c7-4e4f-a837-930dbc8123ef",
+      "id": 34
+    },
+    {
+      "name": "Roman Langosh",
+      "company": "reinvent scalable networks",
+      "email": "Mayra.DuBuque@hotmail.com",
+      "address": "94650 Candice Junctions Apt. 280, Irving, Bedfordshire, 260324-490",
+      "note": "Dolorem et unde dolorem repellendus neque.",
+      "phone": "+15 77 16661-1558",
+      "isActive": false,
+      "guid": "28d751f9-0310-49db-b9ed-a3b21f1a8286",
+      "id": 35
+    },
+    {
+      "name": "Krystal Gerlach",
+      "company": "empower robust initiatives",
+      "email": "Candace_Murphy45@hotmail.com",
+      "address": "952 Annabell Stream Apt. 036, Independence, Berkshire, 168014-326",
+      "note": "Debitis recusandae architecto fugiat esse cumque et quasi placeat quia.\nEt dicta repellat officia quaerat excepturi rem eveniet autem voluptatem.",
+      "phone": "+78 89 08291-1468",
+      "isActive": false,
+      "guid": "7efebc19-aa1e-4212-a820-f8a82f9fed8f",
+      "id": 36
+    },
+    {
+      "name": "Robin DuBuque",
+      "company": "implement cross-platform networks",
+      "email": "Buddy.King@gmail.com",
+      "address": "01977 Neha Walks Apt. 381, Brandon, Bedfordshire, 212222-465",
+      "note": "Cumque quas qui necessitatibus optio laborum ipsa. Delectus velit ab. Et cumque dignissimos odio optio ea. Consequatur ducimus nobis enim.\nUt vitae est optio totam aliquid occaecati reiciendis. Eligendi ea saepe est necessitatibus quae. Itaque veritatis qui sunt excepturi et a rerum magnam iste. Quaerat delectus dolorem omnis odit consectetur.\nAutem voluptatem assumenda sint a enim adipisci magni iusto sapiente. Deleniti porro eos reprehenderit dolorum exercitationem officia iusto et necessitatibus. Aut dolor impedit. Quis ab doloribus qui quae.",
+      "phone": "+63 16 84122-6349",
+      "isActive": true,
+      "guid": "4f0338c7-43f0-4aa5-8178-f4b1f2e4dc29",
+      "id": 37
+    },
+    {
+      "name": "Jessie Johnston",
+      "company": "aggregate granular architectures",
+      "email": "Sarina_Schaden@hotmail.com",
+      "address": "80516 Abdiel Turnpike Apt. 197, Sanford, Buckinghamshire, 267345-823",
+      "note": "Eveniet nesciunt nam numquam et dolorum rerum molestias placeat quas. Praesentium atque iure nulla molestiae sapiente maiores vero reprehenderit et. At expedita ab dolores consequuntur facere aut facere ut nemo.",
+      "phone": "+04 11 31494-7799",
+      "isActive": false,
+      "guid": "0ab0eb92-d906-43b0-9cc2-09dd8634a5ce",
+      "id": 38
+    },
+    {
+      "name": "Janice Considine",
+      "company": "streamline dot-com paradigms",
+      "email": "Dulce.Bahringer@yahoo.com",
+      "address": "21111 Sierra Ridges Apt. 983, St. Charles, Cambridgeshire, 752533-832",
+      "note": "Est iure ut nisi sit tempora. Occaecati sunt excepturi aut ex quaerat sint. Laudantium provident ducimus quas voluptas in nihil. Magni similique excepturi hic assumenda distinctio. Suscipit et deleniti optio qui iusto.",
+      "phone": "+51 27 54316-1208",
+      "isActive": true,
+      "guid": "19d29765-9665-474a-aee5-62b3a8f5ba0a",
+      "id": 39
+    },
+    {
+      "name": "Hazel Rippin",
+      "company": "reinvent strategic web services",
+      "email": "Bessie11@yahoo.com",
+      "address": "69079 Johanna Fork Suite 463, Irvine, Cambridgeshire, 380055-439",
+      "note": "Est ipsam id quia sint quasi accusantium aut. Reprehenderit nostrum in quasi sunt praesentium amet. Ut est temporibus.\nCupiditate provident suscipit suscipit. Ratione corporis voluptatum quis incidunt repudiandae non suscipit. Alias laudantium eveniet nemo alias distinctio praesentium inventore maxime. Consequatur deleniti incidunt dolores ab modi adipisci molestiae doloremque. Omnis et corrupti qui et voluptates consectetur.\nInventore et qui distinctio qui sed id et. Iste earum quidem quia. Rerum aperiam modi qui aliquid et ipsa animi nam voluptatibus. Quos et culpa sint possimus nisi dolores atque. Debitis eum enim enim perferendis consequatur autem adipisci repellendus.",
+      "phone": "+07 33 92025-0850",
+      "isActive": true,
+      "guid": "1a6371aa-535b-41e4-92ba-f5f36f86c28d",
+      "id": 40
+    },
+    {
+      "name": "Sonja Toy IV",
+      "company": "scale ubiquitous eyeballs",
+      "email": "Sven80@gmail.com",
+      "address": "579 Kamille Manors Apt. 827, West New York, Borders, 810033-001",
+      "note": "repellat laudantium recusandae",
+      "phone": "+79 75 51016-7341",
+      "isActive": true,
+      "guid": "997be789-dd1e-456f-816d-cae463bbdc54",
+      "id": 41
+    },
+    {
+      "name": "Jesse Quigley",
+      "company": "cultivate frictionless mindshare",
+      "email": "Sabina.Grant23@gmail.com",
+      "address": "393 Schulist Wells Apt. 586, Plainfield, Buckinghamshire, 203680-267",
+      "note": "Suscipit quia in. Quia aut laudantium.",
+      "phone": "+29 92 41299-6916",
+      "isActive": true,
+      "guid": "42ade5c2-8278-4ae6-99b0-9e4d15a43839",
+      "id": 42
+    },
+    {
+      "name": "Marcos Wehner",
+      "company": "engineer e-business experiences",
+      "email": "Josianne.Smith@hotmail.com",
+      "address": "182 Rath Street Apt. 341, Sterling Heights, Bedfordshire, 806759-391",
+      "note": "Molestias et ut explicabo eligendi eligendi. Dicta sed debitis aperiam quidem adipisci expedita excepturi natus sunt. Tempora blanditiis odit et qui distinctio ipsam fugiat temporibus minima. Atque quo quia ducimus. Fugit doloremque dolor repellendus minus vel ad.",
+      "phone": "+84 46 42357-3228",
+      "isActive": true,
+      "guid": "2093fda9-a530-4763-9b91-e3c25b0b3ef8",
+      "id": 43
+    },
+    {
+      "name": "Lila Wyman",
+      "company": "recontextualize 24/365 models",
+      "email": "Dariana.Dibbert78@yahoo.com",
+      "address": "12513 Tillman Mews Suite 925, Upland, Buckinghamshire, 445283-742",
+      "note": "Nulla expedita aperiam delectus. Quam non aut quia sit modi.",
+      "phone": "+30 53 90354-3779",
+      "isActive": false,
+      "guid": "3e1f6c82-e6f2-4cf3-9587-747633e3b799",
+      "id": 45
+    },
+    {
+      "name": "Meghan Corwin",
+      "company": "grow plug-and-play solutions",
+      "email": "Gregorio.Cummerata@yahoo.com",
+      "address": "453 Bode Road Apt. 741, Bradenton, Berkshire, 446621-046",
+      "note": "Dignissimos deserunt ipsum nostrum aut dolorem natus sunt. Quia ut atque enim ullam fuga architecto. Sunt placeat consequatur doloribus quo beatae et illum quaerat. Suscipit earum beatae inventore ipsum pariatur cumque.",
+      "phone": "+34 92 00618-6210",
+      "isActive": false,
+      "guid": "7bdd9cb5-6e15-4b1e-9b53-40c91249e186",
+      "id": 46
+    },
+    {
+      "name": "Nellie Hayes",
+      "company": "redefine frictionless convergence",
+      "email": "Kennedi49@hotmail.com",
+      "address": "76056 Connie Roads Suite 400, Fort Pierce, Buckinghamshire, 051532-207",
+      "note": "Asperiores possimus quia sint qui recusandae ratione ducimus voluptates. Nisi deserunt quae voluptate voluptatem eligendi blanditiis omnis quia expedita. Assumenda iure perspiciatis. Minima aut aperiam harum.",
+      "phone": "+85 33 11389-1002",
+      "isActive": false,
+      "guid": "8477ec25-b9d9-4172-8bab-e945479863df",
+      "id": 47
+    }
+  ]
+}
